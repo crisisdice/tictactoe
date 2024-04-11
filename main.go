@@ -11,7 +11,7 @@ import (
 	"example/tictactoe/internal/rendering"
 	"example/tictactoe/internal/rules"
 
-	"github.com/eiannone/keyboard" // MIT License
+	"github.com/eiannone/keyboard"
 )
 
 func main() {
